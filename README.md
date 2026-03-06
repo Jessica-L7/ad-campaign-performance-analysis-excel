@@ -122,8 +122,9 @@ The resulting dashboard updates automatically when pivot tables refresh, allowin
 
 | File | Description |
 |-----|-----|
-| `advertising_campaign_dataset.csv` | Original dataset sourced from Kaggle |
-| `Advertising_Campaign_Dashboard.xlsx` | Excel workbook containing pivot tables, KPI calculations, and dashboard visualisations |
+| `raw_advertising_campaign_dataset.xlsx` | Original dataset sourced from Kaggle |
+| `Workbook_Ads_Campaign.xlsx` | Excel workbook containing pivot tables and KPI calculations |
+| `Advertising_Campaign_Dashboard.xlsx` | Excel sheet containing dashboard visualisations |
 
 ---
 
